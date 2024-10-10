@@ -13,11 +13,7 @@ This is a basic project to demonstrate how to build a simple GUI application in 
 
 ## How to Use:
 1. Clone the repository.
-    ```bash
-    git clone https://github.com/febinreju/unit-converter-app.git
-    ```
+
 2. Run the Python script to launch the app.
-    ```bash
-    python unit_converter.py
-    ```
+
 3. Select a conversion type, input a value, and see the result.
